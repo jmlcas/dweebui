@@ -4,11 +4,11 @@ services:
     container_name: dweebui
     image: lllllllillllllillll/dweebui
     environment:
-      PORT: 8000
+      PORT: 8100
       SECRET: MrWiskers
     restart: unless-stopped
     ports:
-      - 8000:8000
+      - "8100:8000"
     volumes:
       - dweebui:/app
       # Docker socket
