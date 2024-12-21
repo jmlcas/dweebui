@@ -4,7 +4,7 @@ services:
     container_name: dweebui
     image: lllllllillllllillll/dweebui
     environment:
-      PORT: 8100
+      PORT: 8000
       SECRET: MrWiskers
     restart: unless-stopped
     ports:
