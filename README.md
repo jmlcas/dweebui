@@ -2,5 +2,5 @@
 
 Ver en "http://localhost:8100"
 
-SECRET: MrWiskers
+SECRET: My-secret
 
